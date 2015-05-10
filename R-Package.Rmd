@@ -1,0 +1,14 @@
+---
+title: "在Github上共同開發R套件"
+author: "Wush Wu"
+date: "2015年05月10日"
+output: html_document
+---
+
+# 環境設定
+
+- 安裝R v3.2.0
+- 安裝[Rtools](http://cran.csie.ntu.edu.tw/bin/windows/Rtools/)
+- 安裝Rstudio v0.98.1103
+- 安裝Git
+- 註冊Github
