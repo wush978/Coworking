@@ -23,8 +23,49 @@ output: html_document
 - 瀏覽Github Project首頁並複製SSH Clone URL/HTTPS Clone URL
 - 在Rstudio中建立專案：
     1. New Project
+    2. Version Control
+    3. Git
+
+![](img/CreateGitProject.png)
 
 
-# Developing With Git
+# 使用Git做開發
 
-- 
+- 更改你要修正的檔案
+    - 一次更改一點點
+    - 每次更改後就commit
+    - commit log 請不要使用中文
+    - commit log 記錄簡潔的記錄更改的目的
+
+# 細解commit
+
+1. 點選Git分頁
+2. 點選Commit
+3. 勾選要Commit的檔案
+4. 檢查更動的部分是否正確
+5. 輸入commit log
+6. commit
+
+備註1. `amend previous commit`會覆蓋掉最後一次的commit
+
+![](img/RstudioCommit.png)
+
+![](img/RstudioCommit2.png)
+
+# 細解push
+
+- 如果push是灰色的，請重新建立專案
+- 如果工作需要push之後才能被其他人使用
+- push之後請不要`amend previous commit`
+- push之後請不要`amend previous commit`
+- push之後請不要`amend previous commit`
+- push出錯請不要緊張，通常都需要先pull之後才能push
+
+# 細解pull
+
+- 如果pull是灰色的，請重新建立專案
+- 工作之前請務必先pull再開始
+- pull如果遇到conflict，請依照下列方式解決：
+    
+
+
