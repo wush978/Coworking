@@ -5,10 +5,26 @@ date: "2015年05月10日"
 output: html_document
 ---
 
-# 環境設定
+# 前製作業
+
+- 安裝開發工具
+- 可重現目前的開發成果
+
+## 環境設定
 
 - 安裝R v3.2.0
 - 安裝[Rtools](http://cran.csie.ntu.edu.tw/bin/windows/Rtools/)
 - 安裝Rstudio v0.98.1103
 - 安裝Git
 - 註冊Github
+
+## 利用Git建立專案
+
+- 瀏覽Github Project首頁並複製SSH Clone URL/HTTPS Clone URL
+- 在Rstudio中建立專案：
+    1. New Project
+
+
+# Developing With Git
+
+- 
