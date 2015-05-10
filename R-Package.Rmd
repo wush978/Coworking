@@ -70,4 +70,6 @@ output: html_document
     - 手動修正檔案內容
     - commit
 
+Reference: <https://help.github.com/articles/resolving-merge-conflicts/>
+
 
