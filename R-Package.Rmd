@@ -66,9 +66,9 @@ output: html_document
 - 如果pull是灰色的，請重新建立專案
 - 工作之前請務必先pull再開始
 - pull如果遇到conflict，請依照下列方式解決：
-    - 檢查哪些檔案被雙方更改
-    - 手動修正檔案內容
-    - commit
+    1. 檢查哪些檔案被雙方更改 ![](img/Conflict.png)
+    2. 手動修正檔案內容
+    3. commit ![](img/CommitResolving.png) ![](img/Resolved.png)
 
 Reference: <https://help.github.com/articles/resolving-merge-conflicts/>
 
